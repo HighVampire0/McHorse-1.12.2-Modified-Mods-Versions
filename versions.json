@@ -1,1 +1,32 @@
-{}
+{
+  "mclib": {
+    "version": "3.0.0",
+    "changes": {
+      "3.0.0": "Modified release."
+    }
+  },
+  "blockbuster": {
+    "version": "3.0.0",
+    "changes": {
+      "3.0.0": "Modified release."
+    }
+  },
+  "metamorph": {
+    "version": "2.0.0",
+    "changes": {
+      "2.0.0": "Modified release."
+    }
+  },
+  "aperture": {
+    "version": "2.0.0",
+    "changes": {
+      "2.0.0": "Modified release."
+    }
+  },
+  "chameleon_morph": {
+    "version": "2.0.0",
+    "changes": {
+      "2.0.0": "Modified release."
+    }
+  }
+}
