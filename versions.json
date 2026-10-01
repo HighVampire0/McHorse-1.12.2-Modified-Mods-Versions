@@ -1,14 +1,16 @@
 {
   "mclib": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "changes": {
-      "3.0.0": "Modified release."
+      "3.0.0": "Modified release.",
+      "3.0.1": "mclib encoding fix."
     }
   },
   "blockbuster": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "changes": {
-      "3.0.0": "Modified release."
+      "3.0.0": "Modified release.",
+      "3.0.1": "obj outline support"
     }
   },
   "metamorph": {
