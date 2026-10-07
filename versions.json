@@ -3,7 +3,8 @@
     "version": "3.0.1",
     "changes": {
       "3.0.0": "Modified release.",
-      "3.0.1": "mclib encoding fix."
+      "3.0.1": "mclib encoding fix.",
+      "3.0.2": "new localization mechanic"
     }
   },
   "blockbuster": {
@@ -11,14 +12,16 @@
     "changes": {
       "3.0.0": "Modified release.",
       "3.0.1": "obj outline support",
-      "3.0.2": "betterlights support is back!"
+      "3.0.2": "betterlights support is back!",
+      "3.0.3": "bbgun rework + mclib localization support"
     }
   },
   "metamorph": {
     "version": "2.0.0",
     "changes": {
       "2.0.0": "Modified release.",
-      "2.0.1": "New settings in item morph."
+      "2.0.1": "New settings in item morph.",
+      "2.0.2": "Creative Morphs GUI optimized and could be updated by R keybing in GUI, Label Morph localization support"
     }
   },
   "aperture": {
