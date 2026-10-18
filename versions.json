@@ -22,7 +22,7 @@
     "changes": {
       "2.0.0": "Modified release.",
       "2.0.1": "New settings in item morph.",
-      "2.0.2": "Creative Morphs GUI optimized and could be updated by R keybing in GUI, Label Morph localization support"
+      "2.0.2": "Creative Morphs GUI optimized and could be updated by R keybing in GUI, Label Morph localization support",
       "2.0.3": "Label Morph update"
     }
   },
