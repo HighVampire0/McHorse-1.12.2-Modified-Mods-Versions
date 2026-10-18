@@ -4,7 +4,8 @@
     "changes": {
       "3.0.0": "Modified release.",
       "3.0.1": "mclib encoding fix.",
-      "3.0.2": "new localization mechanic"
+      "3.0.2": "new localization mechanic",
+      "3.0.3": "Attempt to fix a crash related to spectator hotbars and custom interpolation server crash fix"
     }
   },
   "blockbuster": {
@@ -22,6 +23,7 @@
       "2.0.0": "Modified release.",
       "2.0.1": "New settings in item morph.",
       "2.0.2": "Creative Morphs GUI optimized and could be updated by R keybing in GUI, Label Morph localization support"
+      "2.0.3": "Label Morph update"
     }
   },
   "aperture": {
