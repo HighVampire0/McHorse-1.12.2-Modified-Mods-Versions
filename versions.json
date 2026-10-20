@@ -1,6 +1,6 @@
 {
   "mclib": {
-    "version": "3.0.1",
+    "version": "3.0.3",
     "changes": {
       "3.0.0": "Modified release.",
       "3.0.1": "mclib encoding fix.",
@@ -19,7 +19,7 @@
     }
   },
   "metamorph": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "changes": {
       "2.0.0": "Modified release.",
       "2.0.1": "New settings in item morph.",
